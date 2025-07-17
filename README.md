@@ -18,3 +18,5 @@ Görevlerin toplam sürelerini gösterme
 C# (.NET Framework / .NET Core)
 WinForms (Windows Forms)
 Basit OOP yapısı ve katmanlı mimari
+
+# todolist ile js ile geliştireceğim
